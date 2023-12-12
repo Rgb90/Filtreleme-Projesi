@@ -1,0 +1,20 @@
+.body {
+    background-color: #DCE991;
+}
+
+.card {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+ }
+
+button {
+    display: flex;
+    justify-content: center;
+    background-color: #697524;
+    width: 200px;
+    height: 50px;
+    align-items: center;
+    color: white;
+    border: 1px solid white;
+}
